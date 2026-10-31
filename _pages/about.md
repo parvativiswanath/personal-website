@@ -28,10 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a MS (Thesis) student at the [University of Virginia](https://www.virginia.edu/), advised by [Ferdinando Fioretto](https://nandofioretto.github.io/). Before my MS, I spent one year as a Pre-Doctoral Research Fellow at the [Indian Institute of Science Education and Research (IISER)](https://www.iisertvm.ac.in/) Thiruvananthapuram, where I worked with [Mainak Adhikari](https://www.iisertvm.ac.in/faculty/mainak). 
+I am a MS (Thesis) student at the [University of Virginia](https://www.virginia.edu/), advised by [Ferdinando Fioretto](https://nandofioretto.github.io/). Before my MS, I spent one year as a Pre-Doctoral Research Fellow at the [Indian Institute of Science Education and Research (IISER)](https://www.iisertvm.ac.in/) Thiruvananthapuram, where I worked with [Mainak Adhikari](https://www.iisertvm.ac.in/faculty/mainak).
 
-I am broadly interested in trustworthy AI and agentic AI. Specifically, I am interested in long-term memory in agents, agentic AI safety, self-evolving agents, and more recently, interpretability and contextual integrity. Previously at IISER, I also worked on addressing data heterogeneity and slower convergence in Federated Learning, and validating these algorithms on real autonomous rover systems. 
-
+I am broadly interested in trustworthy AI and agentic AI. Specifically, I am interested in long-term memory in agents, agentic AI safety, self-evolving agents, and more recently, interpretability and contextual integrity. Previously at IISER, I also worked on addressing data heterogeneity and slower convergence in Federated Learning, and validating these algorithms on real autonomous rover systems.
 
 ### Publications and Preprints {#publications-and-preprints}
 
@@ -143,5 +142,3 @@ I am broadly interested in trustworthy AI and agentic AI. Specifically, I am int
     }
   }
 </style>
-
-
