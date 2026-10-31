@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://parvativiswanath.github.io/personal-website/sitemap.xml
